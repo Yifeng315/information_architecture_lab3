@@ -1,3 +1,14 @@
+# Group 3 - Lab 3 Execise
+
+
+
+|    Name    |    Email                 |
+|----------- |--------------------|
+|Yifeng Lin  |ylin5@mail.yu.edu|
+
+
+
+
 
 # Lab #3: Develop Code Repository and Push Commits 
 
